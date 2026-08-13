@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anil Verma
+# 👋 Hi, I'm Anil K Verma
 
 <p align="center">
   <img
@@ -12,7 +12,7 @@
     <img
       src="https://github.com/anilvcodes.png"
       width="150"
-      alt="Anil Verma"
+      alt="Anil K Verma"
     />
   </a>
 </p>
@@ -62,7 +62,7 @@
 
 ### 👨‍💻 Who Am I?
 
-I'm **Anil Verma**, a developer focused on building reliable and scalable software systems.
+I'm **Anil K Verma**, a developer focused on building reliable and scalable software systems.
 
 My primary interests are:
 
